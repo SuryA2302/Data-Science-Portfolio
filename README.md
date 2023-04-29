@@ -1,5 +1,9 @@
 # Surya's Portfolio
 
+[About Me](https://github.com/SuryA2302)
+
+Here are few of my projects, on which which I have worked on:
+
 [Project1: IPL 2022 Data Analysis](https://github.com/SuryA2302/Data-Analysis/blob/64b61ab77520a3f40d3bad081b4f433fdac0dfbb/IPL22.ipynb)
 
 This is the exploratory Data Analysis performed on the TATA IPL 2022.
