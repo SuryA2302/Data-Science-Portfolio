@@ -17,5 +17,10 @@ This is the exploratory Data Analysis performed on the Sales Data .
 - The [data set](https://github.com/KeithGalli/Pandas-Data-Science-Tasks) was taken from a [youtube video](https://www.youtube.com/watch?v=eMOA1pPVUc4)
 - This analysis majorly focused on the Best Selling States, Best selling product category, Best selling month,Best time to advertise and much more.
 
+[Project3: Walmart Sales Data Analysis using Power BI](https://github.com/SuryA2302/Data-Analysis/blob/2466fdb43f5340dbae071634b3e9cf1e8b1fa470/Sales%20Data.pbix)
 
+
+The data analysis has been performed on the Walmart's Sales Data using PowerBI by creating a dashboard .
+- The [data set](https://docs.google.com/spreadsheets/d/13OdJdUWALiOVYga_gjIWUzGoLKVjhnnF/edit?usp=share_link&ouid=109043891756395119870&rtpof=true&sd=true).
+- This analysis majorly focused on the Best Selling States, Best selling product category, Best selling month,total profit and sales and much more.
 
